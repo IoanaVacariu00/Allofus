@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Allofus</string>
+    <string name="go_to_login_page">Go to Login Page</string>
+    <string name="continue_unregistered">Continue Unregistered</string>
+    <string name="textview">TextView</string>
+    <string name="icons">icons</string>
+    <string name="main_image">main image</string>
+    <string name="one_tree_planted">One Tree Planted</string>
+    <string name="arbour_day_foundation">Arbour Day Foundation</string>
+    <string name="trees_for_cities">Trees For Cities</string>
+    <string name="centennial_parklands_bush_regeneration">Centennial Parklands – Bush Regeneration</string>
+    <string name="centennial_parklands_logo">Centennial Parklands Logo</string>
+    <string name="trees_for_cities_logo">Trees For Cities Logo</string>
+    <string name="arbour_day_foundation_logo">Arbour Day Foundation Logo</string>
+    <string name="one_tree_planted_logo">One Tree Planted Logo</string>
+    <string name="back">Back</string>
+    <string name="user_name">User Name</string>
+    <string name="passwod">Passwod</string>
+    <string name="retype_passwod">Retype Passwod</string>
+</resources>

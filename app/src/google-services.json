@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63036972151",
+    "project_id": "allofus-3",
+    "storage_bucket": "allofus-3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63036972151:android:dc156a1d75507dbc393a72",
+        "android_client_info": {
+          "package_name": "com.example.allofus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63036972151-6l50lo7nhpkt2p3t2pticj4g7eroj5om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFSn0R2GWvysETHKAr5wOuMRNiqiDXH0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63036972151-6l50lo7nhpkt2p3t2pticj4g7eroj5om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
